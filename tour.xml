@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Free Mom Hugs Tour</title>
-    <link>https://freemomhugs.org/tour</link>
+    <link>https://freemomhugs.org/projects/</link>
     <description><![CDATA[The Free Mom Hugs Tour is a yearly journey of the Free Mom Hugs crew to sites of historical significane to the LGBTQ+ community. Sites visited in the past include Sontewall, Laramie Wyoming, and San Francisco. The purpose of the tour is to fulfill the mission of Free Mom Hugs: Empowering the world to celebrate the LGBTQIA+ community through visibility, education, and conversation. And yes, we still give hugs! ]]></description>
     <copyright>Copyright 2017-2020 Free Mom Hugs</copyright>
     <generator>Free Mom Hugs API RSS Generator 1.00</generator>
@@ -39,57 +39,6 @@
       <itunes:explicit>false</itunes:explicit>
       <content:encoded><![CDATA[Free Mom Hugs Virtual Tour — Day 1]]></content:encoded>
       <enclosure url="https://cdn.freemomhugs.org/video/virtualtour2020/720p/Day1.mp4" type="video/mp4"/>
-    </item>
-    <item>
-      <title>Day 2</title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>2</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <description><![CDATA[Free Mom Hugs Virtual Tour — Day 2]]></description>
-      <pubDate>Sun, 9 Aug 2020 13:00:00 PDT</pubDate>
-      <copyright>Copyright 2020 Free Mom Hugs - For Personal Use Only</copyright>
-      <guid isPermalink="false">eae6f507-ee31-4461-9ea9-64da7c91692c</guid>
-      <itunes:title>Day 2</itunes:title>
-      <itunes:author>Free Mom Hugs</itunes:author>
-      <itunes:summary><![CDATA[Free Mom Hugs Virtual Tour — Day 2]]></itunes:summary>
-      <itunes:duration>3540</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <content:encoded><![CDATA[Free Mom Hugs Virtual Tour — Day 2]]></content:encoded>
-      <enclosure url="https://cdn.freemomhugs.org/video/virtualtour2020/720p/Day2.mp4" type="video/mp4"/>
-    </item>
-    <item>
-      <title>Day 3</title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>3</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <description><![CDATA[Free Mom Hugs Virtual Tour — Day 3]]></description>
-      <pubDate>Mon, 10 Aug 2020 13:00:00 PDT</pubDate>
-      <copyright>Copyright 2020 Free Mom Hugs - For Personal Use Only</copyright>
-      <guid isPermalink="false">cd409bdc-4a07-433b-aad2-288ebfd98e5e</guid>
-      <itunes:title>Day 3</itunes:title>
-      <itunes:author>Free Mom Hugs</itunes:author>
-      <itunes:summary><![CDATA[Free Mom Hugs Virtual Tour — Day 3]]></itunes:summary>
-      <itunes:duration>3960</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <content:encoded><![CDATA[Free Mom Hugs Virtual Tour — Day 3]]></content:encoded>
-      <enclosure url="https://cdn.freemomhugs.org/video/virtualtour2020/720p/Day3.mp4" type="video/mp4"/>
-    </item>
-    <item>
-      <title>Day 4</title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>4</itunes:episode>
-      <itunes:season>1</itunes:season>
-      <description><![CDATA[Free Mom Hugs Virtual Tour — Day 4]]></description>
-      <pubDate>Tue, 10 Aug 2020 13:00:00 PDT</pubDate>
-      <copyright>Copyright 2020 Free Mom Hugs - For Personal Use Only</copyright>
-      <guid isPermalink="false">1fc393bd-149b-4ba3-a89f-e864356352ca</guid>
-      <itunes:title>Day 4</itunes:title>
-      <itunes:author>Free Mom Hugs</itunes:author>
-      <itunes:summary><![CDATA[Free Mom Hugs Virtual Tour — Day 4]]></itunes:summary>
-      <itunes:duration>3300</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <content:encoded><![CDATA[Free Mom Hugs Virtual Tour — Day 4]]></content:encoded>
-      <enclosure url="https://cdn.freemomhugs.org/video/virtualtour2020/720p/Day4.mp4" type="video/mp4"/>
     </item>
   </channel>
 </rss>
