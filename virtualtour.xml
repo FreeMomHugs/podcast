@@ -20,7 +20,7 @@
     <itunes:image href="https://media.freemomhugs.org/logo/podcast-logo.png"/>
     <image>
       <url>https://media.freemomhugs.org/logo/podcast-logo.png</url>
-      <title>NPR News Now</title>
+      <title>Free Mom Hugs Virtual Tour</title>
       <link>http://www.npr.org/templates/topics/topic.php?topicId=1001</link>
     </image>
     <lastBuildDate>Tue, 11 Aug 2020 00:00:00 -0400</lastBuildDate>
@@ -37,6 +37,20 @@
       <itunes:explicit>no</itunes:explicit>
       <content:encoded><![CDATA[Free Mom Hugs Virtual Tour — Day 1]]></content:encoded>
       <enclosure url="https://cdn.freemomhugs.org/video/virtualtour2020/720p/Day1.mp4" type="video/mp4"/>
+    </item>
+    <item>
+      <title>Day 2</title>
+      <description><![CDATA[NPR News: 08-11-2020 12AM ET]]></description>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 -0400</pubDate>
+      <copyright>Copyright 2020 Free Mom Hugs - For Personal Use Only</copyright>
+      <guid isPermalink="false">fa08408c-3d43-481e-ae26-b25d50a40612</guid>
+      <itunes:title>Day 2</itunes:title>
+      <itunes:author>Free Mom Hugs</itunes:author>
+      <itunes:summary><![CDATA[Free Mom Hugs Virtual Tour — Day 2]]></itunes:summary>
+      <itunes:duration>300</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <content:encoded><![CDATA[Free Mom Hugs Virtual Tour — Day 2]]></content:encoded>
+      <enclosure url="https://cdn.freemomhugs.org/video/virtualtour2020/720p/Day2.mp4" type="video/mp4"/>
     </item>
   </channel>
 </rss>
