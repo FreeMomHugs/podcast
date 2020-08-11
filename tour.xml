@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Free Mom Hugs Virtual Tour 2020</title>
+    <title>The Free Mom Hugs Tour</title>
     <link>https://freemomhugs.org/tour</link>
-    <description><![CDATA[The Free Mom Hugs Virtual Tour]]></description>
-    <copyright>Copyright 2007-2019 Free Mom Hugs - For Personal Use Only</copyright>
-    <generator>Free Mom Hugs API RSS Generator 0.94</generator>
+    <description><![CDATA[The Free Mom Hugs Tour is a yearly journey of the Free Mom Hugs crew to sites of historical significane to the LGBTQ+ community. Sites visited in the past include Sontewall, Laramie Wyoming, and San Francisco. The purpose of the tour is to fulfill the mission of Free Mom Hugs: Empowering the world to celebrate the LGBTQIA+ community through visibility, education, and conversation. And yes, we still give hugs! ]]></description>
+    <copyright>Copyright 2017-2020 Free Mom Hugs</copyright>
+    <generator>Free Mom Hugs API RSS Generator 1.00</generator>
     <language>en-us</language>
-    <itunes:summary><![CDATA[The latest news in five minutes. Updated hourly.]]></itunes:summary>
+    <itunes:summary><![CDATA[The Free Mom Hugs Tour is a yearly journey of the Free Mom Hugs crew to sites of historical significane to the LGBTQ+ community. Sites visited in the past include Sontewall, Laramie Wyoming, and San Francisco. The purpose of the tour is to fulfill the mission of Free Mom Hugs: Empowering the world to celebrate the LGBTQIA+ community through visibility, education, and conversation. And yes, we still give hugs! ]]></itunes:summary>
     <itunes:author>Free Mom Hugs</itunes:author>
     <itunes:block>no</itunes:block>
     <itunes:explicit>false</itunes:explicit>
@@ -15,20 +15,21 @@
       <itunes:email>info@freemomhugs.org</itunes:email>
       <itunes:name/>
     </itunes:owner>
-    <itunes:category text="News">
-      <itunes:category text="Daily News"/>
-    </itunes:category>
+    <itunes:category text="Society &amp; Culture"/>
     <itunes:image href="https://media.freemomhugs.org/podcasts/coverart/tour-podcast.jpg"/>
     <image>
       <url>https://media.freemomhugs.org/logo/podcast-logo.png</url>
       <title>Free Mom Hugs Virtual Tour</title>
       <link>http://www.npr.org/templates/topics/topic.php?topicId=1001</link>
     </image>
-    <lastBuildDate>Tue, 11 Aug 2020 01:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2020 13:00:00 -0400</lastBuildDate>
     <item>
       <title>Day 1</title>
-      <description><![CDATA[Free Mom Hugs Virtual Tour — Day 1]]></description>
-      <pubDate>Sun, 9 Aug 2020 13:00:00 PDT</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <description><![CDATA[Day 1 of the Free Mom Hugs 2020 Virtual Tour includes a (virtual) stop in Oklahoma City as we kick off our 2020 tour journey.]]></description>
+      <pubDate>Sat, 8 Aug 2020 13:00:00 PDT</pubDate>
       <copyright>Copyright 2020 Free Mom Hugs - For Personal Use Only</copyright>
       <guid isPermalink="false">832eebdd-8d14-401a-a284-5e610488631d</guid>
       <itunes:title>Day 1</itunes:title>
@@ -41,8 +42,11 @@
     </item>
     <item>
       <title>Day 2</title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
       <description><![CDATA[Free Mom Hugs Virtual Tour — Day 2]]></description>
-      <pubDate>Mon, 10 Aug 2020 13:00:00 PDT</pubDate>
+      <pubDate>Sun, 9 Aug 2020 13:00:00 PDT</pubDate>
       <copyright>Copyright 2020 Free Mom Hugs - For Personal Use Only</copyright>
       <guid isPermalink="false">eae6f507-ee31-4461-9ea9-64da7c91692c</guid>
       <itunes:title>Day 2</itunes:title>
@@ -55,6 +59,9 @@
     </item>
     <item>
       <title>Day 3</title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>3</itunes:episode>
+      <itunes:season>1</itunes:season>
       <description><![CDATA[Free Mom Hugs Virtual Tour — Day 3]]></description>
       <pubDate>Mon, 10 Aug 2020 13:00:00 PDT</pubDate>
       <copyright>Copyright 2020 Free Mom Hugs - For Personal Use Only</copyright>
@@ -69,8 +76,11 @@
     </item>
     <item>
       <title>Day 4</title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>4</itunes:episode>
+      <itunes:season>1</itunes:season>
       <description><![CDATA[Free Mom Hugs Virtual Tour — Day 4]]></description>
-      <pubDate>Mon, 10 Aug 2020 13:00:00 PDT</pubDate>
+      <pubDate>Tue, 10 Aug 2020 13:00:00 PDT</pubDate>
       <copyright>Copyright 2020 Free Mom Hugs - For Personal Use Only</copyright>
       <guid isPermalink="false">1fc393bd-149b-4ba3-a89f-e864356352ca</guid>
       <itunes:title>Day 4</itunes:title>
