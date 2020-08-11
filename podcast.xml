@@ -36,7 +36,7 @@
       <itunes:duration>300</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <content:encoded><![CDATA[NPR News: 08-11-2020 12AM ET]]></content:encoded>
-      <enclosure url="https://play.podtrac.com/npr-500005/edge1.pod.npr.org/anon.npr-mp3/npr/newscasts/2020/08/11/newscast000819.mp3?awCollectionId=500005&amp;awEpisodeId=901195855&amp;orgId=1&amp;d=300&amp;p=500005&amp;story=901195855&amp;t=podcast&amp;e=901195855&amp;size=4500000&amp;ft=pod&amp;f=500005" length="4500000" type="audio/mpeg"/>
+      <enclosure url="https://cdn.freemomhugs.org/chapter-committee/webinars/chapter-leader-info-webinar-aug2020.m4a" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
