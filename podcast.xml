@@ -3,7 +3,7 @@
   <channel>
     <title>Free Mom Hugs Chapters</title>
     <link>http://www.npr.org/templates/topics/topic.php?topicId=1001</link>
-    <description><![CDATA[The latest news in five minutes. Updated hourly.]]></description>
+    <description><![CDATA[The latest Free Mom Hugs Chapter News]]></description>
     <copyright>Copyright 2007-2019 Free Mom Hugs - For Personal Use Only</copyright>
     <generator>Free Mom Hugs API RSS Generator 0.94</generator>
     <language>en-us</language>
@@ -11,7 +11,7 @@
     <itunes:author>Free Mom Hugs</itunes:author>
     <itunes:block>no</itunes:block>
     <itunes:owner>
-      <itunes:email>PodCasts@npr.org</itunes:email>
+      <itunes:email>info@freemomhugs.org</itunes:email>
       <itunes:name/>
     </itunes:owner>
     <itunes:category text="News">
@@ -28,10 +28,10 @@
       <title>Free Mom Hugs Chapter Leader Webinar</title>
       <description><![CDATA[NPR News: 08-11-2020 12AM ET]]></description>
       <pubDate>Tue, 11 Aug 2020 00:00:00 -0400</pubDate>
-      <copyright>Copyright 2007-2019 NPR - For Personal Use Only</copyright>
+      <copyright>Copyright 2007-2019 Free Mom Hugs - For Personal Use Only</copyright>
       <guid isPermalink="false">fa08408c-3d43-481e-ae26-b25d50a40612</guid>
-      <itunes:title>NPR News: 08-11-2020 12AM ET</itunes:title>
-      <itunes:author>NPR</itunes:author>
+      <itunes:title>Free Mom Hugs Chapter Leader Webinar</itunes:title>
+      <itunes:author>Free Mom Hugs</itunes:author>
       <itunes:summary><![CDATA[NPR News: 08-11-2020 12AM ET]]></itunes:summary>
       <itunes:duration>300</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
