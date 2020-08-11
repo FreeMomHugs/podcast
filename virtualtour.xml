@@ -2,7 +2,7 @@
 <rss xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>Free Mom Hugs Virtual Tour 2020</title>
-    <link>http://www.npr.org/templates/topics/topic.php?topicId=1001</link>
+    <link>https://freemomhugs.org/tour</link>
     <description><![CDATA[The Free Mom Hugs Virtual Tour]]></description>
     <copyright>Copyright 2007-2019 Free Mom Hugs - For Personal Use Only</copyright>
     <generator>Free Mom Hugs API RSS Generator 0.94</generator>
