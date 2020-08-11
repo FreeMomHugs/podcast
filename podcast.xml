@@ -17,9 +17,9 @@
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
-    <itunes:image href="https://media.freemomhugs.org/logo/og.png"/>
+    <itunes:image href="https://media.freemomhugs.org/logo/podcast-logo.png"/>
     <image>
-      <url>https://media.freemomhugs.org/logo/og.png</url>
+      <url>https://media.freemomhugs.org/logo/podcast-logo.png</url>
       <title>NPR News Now</title>
       <link>http://www.npr.org/templates/topics/topic.php?topicId=1001</link>
     </image>
