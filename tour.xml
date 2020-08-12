@@ -22,22 +22,39 @@
       <title>Free Mom Hugs Virtual Tour</title>
       <link>https://freemomhugs.org/projects</link>
     </image>
-    <lastBuildDate>Tue, 11 Aug 2020 13:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2020 19:00:00 -0400</lastBuildDate>
     <item>
-      <title>Virtual Tour 2020, Day 1</title>
+      <title>Day 1</title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <description>Day 1 of the Free Mom Hugs 2020 Virtual Tour includes a (virtual) stop in Oklahoma City as we kick off our 2020 tour journey.</description>
       <itunes:summary>Day 1 of the Free Mom Hugs 2020 Virtual Tour includes a (virtual) stop in Oklahoma City as we kick off our 2020 tour journey.</itunes:summary>
-      <pubDate>Sat, 8 Aug 2020 13:00:00 PDT</pubDate>
+      <pubDate>Sat, 8 Aug 2020 13:00:00 CDT</pubDate>
       <copyright>Copyright 2020 Free Mom Hugs - For Personal Use Only</copyright>
       <guid isPermalink="false">832eebdd-8d14-401a-a284-5e610488631d</guid>
-      <itunes:title>Virtual Tour 2020, Day 1</itunes:title>
+      <itunes:title>Day 1</itunes:title>
       <itunes:author>Free Mom Hugs</itunes:author>
       <itunes:duration>4200</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <enclosure url="https://cdn.freemomhugs.org/video/virtualtour2020/720p/Day1.mp4" type="video/mp4"/>
+    </item>
+    <item>
+      <title>Day 2</title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <description><![CDATA[Free Mom Hugs Virtual Tour — Day 2]]></description>
+      <pubDate>Sun, 9 Aug 2020 13:00:00 CDT</pubDate>
+      <copyright>Copyright 2020 Free Mom Hugs - For Personal Use Only</copyright>
+      <guid isPermalink="false">eae6f507-ee31-4461-9ea9-64da7c91692c</guid>
+      <itunes:title>Day 2</itunes:title>
+      <itunes:author>Free Mom Hugs</itunes:author>
+      <itunes:summary><![CDATA[Free Mom Hugs Virtual Tour — Day 2]]></itunes:summary>
+      <itunes:duration>3540</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <content:encoded><![CDATA[Free Mom Hugs Virtual Tour — Day 2]]></content:encoded>
+      <enclosure url="https://media.freemomhugs.org/podcasts/tour/virtualtour2020/Day2.mp4" type="video/mp4"/>
     </item>
   </channel>
 </rss>
