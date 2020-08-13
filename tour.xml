@@ -37,7 +37,7 @@
       <itunes:author>Free Mom Hugs</itunes:author>
       <itunes:duration>4200</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://cdn.freemomhugs.org/video/virtualtour2020/720p/Day1.mp4" type="video/mp4"/>
+      <enclosure url="https://media.freemomhugs.org/podcasts/tour/virtualtour2020/Day1.mp4" type="video/mp4"/>
     </item>
     <item>
       <title>Day 2</title>
