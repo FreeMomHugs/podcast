@@ -37,7 +37,7 @@
       <itunes:author>Free Mom Hugs</itunes:author>
       <itunes:duration>4200</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://videodelivery.net/0f63cbd76f624c2d9a343aaf21cb24be/manifest/video.m3u8" type="application/vnd.apple.mpegurl"/>
+      <enclosure url="https://videodelivery.net/0f63cbd76f624c2d9a343aaf21cb24be/downloads/default.mp4" type="video/mp4"/>
     </item>
     <item>
       <title>Louisville, Kentucky</title>
@@ -53,7 +53,7 @@
       <itunes:summary>Day 2 of The Free Mom Hugs Virtual Tour covers Louisville, Kentucky. Day 2 has a special message from Abby Wambach and Glennon Doyle as well as the incredible speaker, author, and advocate Kathy Baldock. Kathy, Parker, and Sara discuss the ways in which the Bible has been misused to harm LGBTQ+ people.</itunes:summary>
       <itunes:duration>3540</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://videodelivery.net/b66fff82713bc23727dafbc8a3c9b2e3/manifest/video.m3u8" type="application/vnd.apple.mpegurl"/>
+      <enclosure url="https://videodelivery.net/b66fff82713bc23727dafbc8a3c9b2e3/downloads/default.mp4" type="video/mp4"/>
     </item>
     <item>
       <title>Columbus and Cincinnati, Ohio</title>
@@ -69,7 +69,7 @@
       <itunes:summary>Day 3 of The Free Mom Hugs Virtual Tour covers Columbus and Cincinnati, Ohio.</itunes:summary>
       <itunes:duration>4010</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://videodelivery.net/a8543076f303ac1b090e6e09eb51c67c/manifest/video.m3u8" type="application/vnd.apple.mpegurl"/>
+      <enclosure url="https://videodelivery.net/a8543076f303ac1b090e6e09eb51c67c/downloads/default.mp4" type="video/mp4"/>
     </item>
   </channel>
 </rss>
